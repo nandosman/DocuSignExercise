@@ -1,5 +1,5 @@
 # DocuSign Exercise
-This is my solution for the exercise given to me by DocuSign.
+This is my solution for the exercise given to me by DocuSign. It is a WPF solution, .NET Framework 4.5.2, Visual Studio 2015. C# for the Back End, and XAML for the Front End. Unit tests were made on a different project within the same solution.
 
 
 Exercise
