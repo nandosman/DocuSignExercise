@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocuSign Exercise", "DocuSign\DocuSign Exercise.csproj", "{04B59970-9A82-4E37-9DC9-7FE019E03CDF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocuSign Exercise", "DocuSign Exercise\DocuSign Exercise.csproj", "{04B59970-9A82-4E37-9DC9-7FE019E03CDF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unit Tests", "UnitTestProject1\Unit Tests.csproj", "{3103AC11-20CB-4931-A133-8737282E3B6A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unit Tests", "Unit Tests\Unit Tests.csproj", "{3103AC11-20CB-4931-A133-8737282E3B6A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

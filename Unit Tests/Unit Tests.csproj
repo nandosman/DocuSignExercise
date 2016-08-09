@@ -54,7 +54,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\DocuSign\DocuSign Exercise.csproj">
+    <ProjectReference Include="..\DocuSign Exercise\DocuSign Exercise.csproj">
       <Project>{04b59970-9a82-4e37-9dc9-7fe019e03cdf}</Project>
       <Name>DocuSign Exercise</Name>
     </ProjectReference>
